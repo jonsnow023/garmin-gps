@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
 Garmin GPS Map Update: How to Keep Your Navigation Accurate and Reliable
 ====================================================
 
